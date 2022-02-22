@@ -1,0 +1,7 @@
+{
+  "name": "h2luis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

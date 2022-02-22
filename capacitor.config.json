@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "h2luis",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
